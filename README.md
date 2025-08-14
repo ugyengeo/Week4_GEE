@@ -26,3 +26,5 @@ These maps can be used for urban planning, environmental monitoring, and identif
 ## Links
 
 - **Google Earth Engine App/Script:** [Click here to open](https://code.earthengine.google.com/58e439eb6b4ce1ebb5810fbf1eda16f9)
+- ![NDVI Map Preview](images/NDVI_image_Melbourne_City.tif)
+- ![NDVI Map Preview](images/Melbourne%20West%20NDVI.tiff)
